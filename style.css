@@ -1,0 +1,6 @@
+@media screen and (width < 500px){
+    nav{
+        display:none;
+    }
+}
+    
